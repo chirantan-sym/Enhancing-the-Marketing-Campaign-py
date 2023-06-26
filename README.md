@@ -9,6 +9,13 @@ New marketing campaigns can have a significant impact on overall business growth
 
 Analyzing marketing campaign data is crucial for staying ahead of market competition. By closely examining metrics like reach, engagement, conversion rates, and customer feedback, businesses can gain valuable insights into campaign effectiveness. For instance, a software company runs a marketing campaign promoting a new feature of their product. Through data analysis, they discover that the campaign resonated well with their target audience, resulting in a spike in free trial sign-ups and positive customer reviews. Armed with this knowledge, they can optimize future campaigns to maximize their impact and stay ahead of competitors.
 
+## Business Queries:
+
+1) What is the zip code most purchased from the ads?
+2) Is there a relationship between customers who received a discount and purchases?
+3) Customers who get an offer do they buy?
+4) What are the channels that customers use the most and buy through?
+
 Here we are using a random data of marketing campaign, downloaded from https://www.kaggle.com/ . It contains data about:
 
 - recency
